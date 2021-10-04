@@ -10,6 +10,8 @@
 }
 .btn-regular{
     background-color: goldenrod;
+    color: black;
+    font-weight: bold;
     width: 150px;
     height: 25px;
     border: 1px solid gray;
